@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Data Analyst Project](https://github.com/prakash4031/netflix_SQL_Project)
+- 🔭 I’m currently working on [Data Analyst Project](https://github.com/prakashr2000/netflix_SQL_Project)
 
 - 🌱 I’m currently learning **Python, Machine Learning and React**
 
